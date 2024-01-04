@@ -70,6 +70,5 @@ You can download the converted software from the [link](https://drive.google.com
 
 If you have any questions or concerns, feel free to [open a issue](https://github.com/neharix/djrun-code/issues) or join the [channel in Start](https://tmstart.me/neharix_commits)
 
-If you have any questions or issues, feel free to [open an issue](https://github.com/neharix/djrun-code/issues) or 
 
 Happy coding!
