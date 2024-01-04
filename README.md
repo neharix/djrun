@@ -64,7 +64,7 @@ You can download the converted software from the [link](https://drive.google.com
 ## Acknowledgments
 
 - Mention any external libraries or tools used.
-- @github/rampoe, who developed most of the back end of this project.
+- [@rampoe](https://github.com/rampoe/), who developed most of the back end of this project.
 
 ## Contact
 
