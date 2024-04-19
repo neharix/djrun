@@ -59,7 +59,7 @@ Note: Ensure that the `auto-py-to-exe` tool is compatible with your Python versi
 
 ## Ready software
 
-You can download the converted software from the [link](https://drive.google.com/file/d/1nSSWaH8UTC-mJXORSXOcnSdBkbt7BdMm/view?usp=sharing)
+You can download the converted software from the [link](https://drive.google.com/file/d/1eZ-4T7PFpi9GoWKN4Yi0BGxKGq_gl2AE/view?usp=sharing)
 
 ## Acknowledgments
 
@@ -68,7 +68,6 @@ You can download the converted software from the [link](https://drive.google.com
 
 ## Contact
 
-If you have any questions or concerns, feel free to [open a issue](https://github.com/neharix/djrun-code/issues) or join the [channel in Start](https://tmstart.me/neharix_commits)
-
+If you have any questions or concerns, feel free to [open a issue](https://github.com/neharix/djrun-code/issues)
 
 Happy coding!
