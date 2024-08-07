@@ -29,10 +29,10 @@ Make sure you have the following installed on your system:
 3. Run `auto-py-to-exe`:
 
     ```bash
-    auto-py-to-exe
+    autopytoexe
     ```
 
-4. In the `auto-py-to-exe` GUI:
+4. In the `autopytoexe` GUI:
 
     - Load your script by clicking on "Browse Script" and selecting `djrun.py`.
     - Select the "One File" and "Console Based" options
